@@ -12,4 +12,4 @@ elif 24.9 < endeks <= 29.9 :
 elif 29.9 < endeks <= 46 :
     print("{} kilo endeksin {} ve obezsin.".format(isim, endeks))
 else :
-    print("Bilgilerinizi kontrol ediniz.")    
+    print("Bilgilerinizi kontrol ediniz.")
